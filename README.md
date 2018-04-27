@@ -1,2 +1,2 @@
 # usersmanager-wp-plugin
-Wordpress plugin for Usersmanager Services
+Wordpress plugin for Usersmanager Services Matteo
